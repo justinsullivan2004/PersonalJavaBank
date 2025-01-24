@@ -1,0 +1,8 @@
+2025-01-22: Deposit: 50.0	New balance 50.0
+2025-01-23: Deposit: 100.0	New balance 100.0
+2025-01-23: Deposit: 100.0	New balance 100.0
+2025-01-23: Deposit: 100.0	New balance 100.0
+2025-01-23: Deposit: 100.0	New balance 100.0
+2025-01-23: Withdraw: 25.0	New balance 75.0
+2025-01-23: Deposit: 212.0	New balance 1212.0
+2025-01-23: Withdraw: 25.0	New balance 1187.0

@@ -1,0 +1,2 @@
+2025-01-23: Deposit: $1000.0	New Balance: $1000.0
+2025-01-23: Withdraw: $122.0	New Balance: $1065.0
